@@ -130,7 +130,7 @@
 
 .container-xl {
     max-width: 1140px;
-    padding: 40px;
+    padding: 30px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -205,6 +205,17 @@
 
     .lh-md-62 {
         line-height: var(--lh-62);
+    }
+
+    .pt_md_60 {
+        padding-top: 60px !important;
+    }
+
+    .p_md_30 {
+        padding: 30px !important;
+    }
+    .container-xl{
+        padding: 40px;
     }
 }
 
